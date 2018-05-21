@@ -1,0 +1,28 @@
+{
+  "name": "reactjs_aiesec_sall_ahmed",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.0.0",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.0.0-alpha.6",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.1",
+    "react": "^0.14.9",
+    "react-bootstrap-table": "^4.3.1",
+    "react-data-grid": "^4.0.7",
+    "react-dom": "^0.14.1",
+    "react-jquery-datatables": "^1.0.0",
+    "react-moment": "^0.7.0",
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.1.4",
+    "react-table": "^6.8.2",
+    "spicy-datatable": "^0.6.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
